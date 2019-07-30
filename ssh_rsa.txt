@@ -1,0 +1,16 @@
+Your identification has been saved in /e/Home/.ssh/id_rsa.
+Your public key has been saved in /e/Home/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:4FBViXT22upmtzJQlnifzhXHvPouT7HIWrkYkccxrV0 weijie_310@163.com
+The key's randomart image is:
++---[RSA 2048]----+
+|      .ooo+.     |
+|     .  .o..  .  |
+|    . .  . ..o +E|
+|     o .. =oo * =|
+|      . S+.+.= =.|
+|        .  .* +.o|
+|         ..+ *.o |
+|         .= Ooo  |
+|         o.*.o=+ |
++----[SHA256]-----+
